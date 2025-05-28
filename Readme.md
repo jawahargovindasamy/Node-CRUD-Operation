@@ -79,8 +79,3 @@ The server will start on the port specified in the `.env` file or default to `40
 You can find the postman documentation for this API [here](https://documenter.getpostman.com/view/37421127/2sB2qdhfYQ).
 
 The documentation includes the endpoints, request/response formats and sample requests/responses
-
-## License
-
-This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
-
